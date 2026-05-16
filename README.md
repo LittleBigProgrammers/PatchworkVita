@@ -8,6 +8,10 @@ Right now, this project isn't complete, so look forward for some more updates!
 
 [Original Patchwork Devs](https://github.com/HugeSpaceship/Patchwork) For making the original Patchwork this is based on!
 
+## Original Credits
+
+These credits are NOT 100% for this project.
+
 [jvyden](https://github.com/jvyden) For helping me get set up with the SDK, providing emotional support, and testing.
 
 [jackcaver](https://github.com/jackcaver) For helping to test HEN, and for figuring out a race condition with SPRX loading.
